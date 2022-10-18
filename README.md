@@ -1,6 +1,6 @@
 # Hey there! 👋, I'm Calvin
 
-<p style="font-size: 1.5rem; font-weight: bold;">I'm a software engineer</p>
+<p style="font-size: 1.5rem; font-weight: bold;">Software Engineer | JavaScript | Python | Express.js | Node.js | Flask | React | Redux | Node.js | SQLAlchemy | Sequelize | PostgreSQL | SQLite3 | Git | HTML | CSS</p>
 
 </br>
 
