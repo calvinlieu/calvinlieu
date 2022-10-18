@@ -1,6 +1,6 @@
-# Hey there! 👋, I'm Calvin
+# Hey there! 👋, Welcome to My Page! I'm Calvin.
 
-<p style="font-size: 1.5rem; font-weight: bold;">Software Engineer | JavaScript | Python | Express.js | Node.js | Flask | React | Redux | Node.js | SQLAlchemy | Sequelize | PostgreSQL | SQLite3 | Git | HTML | CSS</p>
+<p style="font-size: 1.5rem; font-weight: bold;">I am a full-stack Software Engineer born and raised in San Francisco. Transitioning from the medical field to developing full stack web applications, one thing has stayed the same which is my love for helping others. Whether I am solving challenging leetcode problems to debugging my personal projects, nothing satisfies me more than learning about the unknown. </p>
 
 </br>
 
